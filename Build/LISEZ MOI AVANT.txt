@@ -1,0 +1,69 @@
+Nom : 
+
+Exodus von schafen
+
+--------------------
+
+Developpeur :
+
+Kevin Menuge
+
+Laurent Cala
+
+Laura Garcin
+
+Pierre jourdan
+
+Nathan Bublot
+
+--------------------
+
+
+Explication du jeu : 
+
+Le thème de cette game-jam était le clip de rock https://www.youtube.com/watch?v=MUFdBoOv9dE
+
+La musique parle de la révolte, des opprimés et de la révolution.
+
+Nous avons choisis de placer notre univers dans un monde décalé ( celui des moutons ) , car nous avions pour désir de parler d'une chose très profonde
+
+avec dérision pour toucher le plus de personne. ( L'animal en lui même a également pas était choisis par hasard )
+
+
+Vous incarnez donc le "Che-mouton" le che guevara des moutons qui va devoir libérer tous les moutons opprimés des "enclos-goulag" pour finir le jeu.
+
+
+
+--------------------
+
+Gameplay :
+
+Déplacement : A la souris comme un STR ou MOBA
+
+Vous dirigez le "che-mouton" et vous allez devoir récupérer les autres moutons et les amener à la sortie pour finir le niveau, pour celà vous devez 
+
+vous approchez d'eux pour les faire rentrer dans le troupeau pour qui vous suivent.
+
+
+
+ATTENTION : Quand vous êtes en troupeau vos déplacements sont ralentis et les pièges sont plus difficilement passable !
+
+
+Pour envoyer ailleurs un autre mouton, selectionnez le avec les touches "Z" , "E" ou "R"  ( indication à droite de l'écran ) 
+
+Quand celui là est selectionné 1 seul clic suffit pour l'envoyer
+
+
+ATTENTION : Chaques moutons ( Black , russe et amérindien ) ont leurs propres délais avant de se déplacer
+
+Il faudra donc avoir beaucoup de timing et d'anticipation pour finir le jeu.
+
+Mais dans le pire des cas vous pouvez toujours tuer un mouton pour le plaisir car l'animation est cool :).
+
+
+BON JEU !
+
+
+(ps : Si vous êtes fort et que vous arrivez au dernier niveau vous aurez une petite surprise :) )
+
+
